@@ -13,7 +13,7 @@ import java.sql.PreparedStatement;
 
 /* PARA CONECTAR COM O BANCO*/
 
-public class IndiceDAO {
+public class RestauranteDAO {
 	
 	public Connection connection;
 	
